@@ -11,11 +11,13 @@ load_dotenv()
 def load_lake_to_postgres():
     conn = psycopg2.connect(
         host=os.getenv("DB_HOST", "localhost"),
-        database=os.getenv("DB_NAME", "medical_db"),
+        database=os.getenv("DB_NAME", "postgress"),
         user=os.getenv("DB_USER", "postgres"),
-        password=os.getenv("DB_PASSWORD")
+        password=os.getenv("DB_PASSWORD", "leulalmaz"),
+        port=os.getenv("DB_PORT", "5432")
     )
     cursor = conn.cursor()
+    print("Successfully connected to PostgreSQL database!")
     
     # Initialize baseline schema
     cursor.execute("CREATE SCHEMA IF NOT EXISTS raw;")

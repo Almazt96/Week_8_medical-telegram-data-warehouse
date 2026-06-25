@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw  # <--- This matches the first argument in source('raw', '...')
+    description: "Raw data scraped from medical Telegram channels"
+    database: postgres  # <-- Replace with your actual Postgres DB name
+    schema: raw # <-- Replace with the actual schema where this table lives
+    tables:
+      - name: telegram_messages  # <--- This matches the second argument
+        description: "Raw telegram messages staging table"

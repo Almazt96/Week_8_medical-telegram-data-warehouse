@@ -10,3 +10,153 @@
 [0m09:30:16.550216 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000014FED7CE330>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000014FED75C110>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000014FED75DB20>]}
 [0m09:30:16.550216 [debug] [MainThread]: Flushing usage events
 [0m09:30:17.826103 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m10:39:19.996170 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C6C88DC320>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C6C88DC200>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C6C6A7AE70>]}
+
+
+============================== 10:39:20.003605 | b93f0850-116a-4d6c-8f8b-a890f654e5d4 ==============================
+[0m10:39:20.003605 [info ] [MainThread]: Running with dbt=1.12.0-b3
+[0m10:39:20.005197 [debug] [MainThread]: running dbt with arguments {'maximum_seed_size_mib': '1', 'no_print': 'None', 'static_parser': 'True', 'target_path': 'None', 'version_check': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'printer_width': '80', 'write_json': 'True', 'empty': 'None', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\Almazt\\.dbt', 'invocation_command': 'dbt docs generate', 'indirect_selection': 'eager', 'use_colors': 'True', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m10:39:20.006203 [error] [MainThread]: [[31mERROR[0m]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path D:\Personal\Kifiya 10 Academy\10 Academy\Week_8_medical-telegram-warehouse\dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m10:39:20.007384 [debug] [MainThread]: Command `dbt docs generate` failed at 10:39:20.007384 after 0.21 seconds
+[0m10:39:20.008469 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C6C8997290>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C6C6A7AE70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C6C6A9A4B0>]}
+[0m10:39:20.008469 [debug] [MainThread]: Flushing usage events
+[0m10:39:21.171924 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m10:50:45.536848 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022CB28AB3B0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022CB5564A70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022CB6ED6270>]}
+
+
+============================== 10:50:45.536848 | 603fe1f9-e61c-4bb3-a149-3a6d5fadcad6 ==============================
+[0m10:50:45.536848 [info ] [MainThread]: Running with dbt=1.12.0-b3
+[0m10:50:45.536848 [debug] [MainThread]: running dbt with arguments {'version_check': 'True', 'no_print': 'None', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'maximum_seed_size_mib': '1', 'printer_width': '80', 'write_json': 'True', 'introspect': 'True', 'log_cache_events': 'False', 'empty': 'None', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\Almazt\\.dbt', 'invocation_command': 'dbt init', 'indirect_selection': 'eager', 'use_colors': 'True', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m10:51:46.082970 [debug] [MainThread]: Starter project path: C:\Users\Almazt\AppData\Local\anaconda3\Lib\site-packages\dbt\include\starter_project
+[0m10:51:46.167250 [info ] [MainThread]: Setting up your profile.
+[0m10:55:10.663119 [info ] [MainThread]: Profile Kara_Solutions written to C:\Users\Almazt\.dbt\profiles.yml using target's profile_template.yml and your supplied values.
+[0m10:55:10.683929 [info ] [MainThread]: Running dbt debug to validate the project...
+[0m10:55:10.684927 [info ] [MainThread]: dbt version: 1.12.0-b3
+[0m10:55:10.685928 [info ] [MainThread]: python version: 3.12.7
+[0m10:55:10.685928 [info ] [MainThread]: python path: C:\Users\Almazt\AppData\Local\anaconda3\python.exe
+[0m10:55:10.685928 [info ] [MainThread]: os info: Windows-11-10.0.26200-SP0
+[0m10:55:10.714283 [info ] [MainThread]: Using profiles dir at C:\Users\Almazt\.dbt
+[0m10:55:10.714283 [info ] [MainThread]: Using profiles.yml file at C:\Users\Almazt\.dbt\profiles.yml
+[0m10:55:10.714283 [info ] [MainThread]: Using dbt_project.yml file at D:\Personal\Kifiya 10 Academy\10 Academy\Week_8_medical-telegram-warehouse\Kara_Solutions\dbt_project.yml
+[0m10:55:10.720622 [info ] [MainThread]: adapter type: postgres
+[0m10:55:10.722635 [info ] [MainThread]: adapter version: 1.10.2
+[0m10:55:10.839213 [info ] [MainThread]: Configuration:
+[0m10:55:10.839213 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m10:55:10.839213 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m10:55:10.839213 [info ] [MainThread]: Required dependencies:
+[0m10:55:10.839213 [debug] [MainThread]: Executing "git --help"
+[0m10:55:10.910144 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]\n           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]\n           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]\n           <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone      Clone a repository into a new directory\n   init       Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add        Add file contents to the index\n   mv         Move or rename a file, a directory, or a symlink\n   restore    Restore working tree files\n   rm         Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect     Use binary search to find the commit that introduced a bug\n   diff       Show changes between commits, commit and working tree, etc\n   grep       Print lines matching a pattern\n   log        Show commit logs\n   show       Show various types of objects\n   status     Show the working tree status\n\ngrow, mark and tweak your common history\n   backfill   Download missing objects in a partial clone\n   branch     List, create, or delete branches\n   commit     Record changes to the repository\n   history    EXPERIMENTAL: Rewrite history\n   merge      Join two or more development histories together\n   rebase     Reapply commits on top of another base tip\n   reset      Set `HEAD` or the index to a known state\n   switch     Switch branches\n   tag        Create, list, delete or verify tags\n\ncollaborate (see also: git help workflows)\n   fetch      Download objects and refs from another repository\n   pull       Fetch from and integrate with another repository or a local branch\n   push       Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m10:55:10.911237 [debug] [MainThread]: STDERR: "b''"
+[0m10:55:10.911237 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m10:55:10.912150 [info ] [MainThread]: Connection:
+[0m10:55:10.912150 [info ] [MainThread]:   host: localhost
+[0m10:55:10.912150 [info ] [MainThread]:   port: 5432
+[0m10:55:10.913150 [info ] [MainThread]:   user: postgres
+[0m10:55:10.914149 [info ] [MainThread]:   database: postgres
+[0m10:55:10.914149 [info ] [MainThread]:   schema: medical-schema
+[0m10:55:10.914149 [info ] [MainThread]:   connect_timeout: 10
+[0m10:55:10.915148 [info ] [MainThread]:   role: None
+[0m10:55:10.915148 [info ] [MainThread]:   search_path: None
+[0m10:55:10.916148 [info ] [MainThread]:   keepalives_idle: 0
+[0m10:55:10.916148 [info ] [MainThread]:   sslmode: None
+[0m10:55:10.917238 [info ] [MainThread]:   sslcert: None
+[0m10:55:10.918144 [info ] [MainThread]:   sslkey: None
+[0m10:55:10.918144 [info ] [MainThread]:   sslrootcert: None
+[0m10:55:10.918144 [info ] [MainThread]:   application_name: dbt
+[0m10:55:10.919323 [info ] [MainThread]:   retries: 1
+[0m10:55:10.919323 [info ] [MainThread]: Registered adapter: postgres=1.10.2
+[0m10:55:12.240056 [debug] [MainThread]: Acquiring new postgres connection 'debug'
+[0m10:55:15.080771 [debug] [MainThread]: Using postgres connection "debug"
+[0m10:55:15.080771 [debug] [MainThread]: On debug: select 1 as id
+[0m10:55:15.080771 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m10:55:15.269201 [debug] [MainThread]: SQL status: SELECT 1 in 0.190 seconds
+[0m10:55:15.269201 [debug] [MainThread]: On debug: Close
+[0m10:55:15.269201 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m10:55:15.269201 [info ] [MainThread]: [32mAll checks passed![0m
+[0m10:55:15.269201 [info ] [MainThread]: Your new dbt project "Kara_Solutions" was created!
+Initialized new project in D:\Personal\Kifiya 10 Academy\10 Academy\Week_8_medical-telegram-warehouse\Kara_Solutions\Kara_Solutions
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m10:55:15.285071 [debug] [MainThread]: Command `dbt init` succeeded at 10:55:15.285071 after 269.94 seconds
+[0m10:55:15.285071 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m10:55:15.285071 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022CB44AEE10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022CB7082BD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022CB70FC4D0>]}
+[0m10:55:15.285071 [debug] [MainThread]: Flushing usage events
+[0m10:55:15.932984 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m11:29:59.770931 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000016949C2B470>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000169452BB770>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000016949A92060>]}
+
+
+============================== 11:29:59.780368 | 023db5b1-bec7-44a4-97ae-ea85cb3327f4 ==============================
+[0m11:29:59.780368 [info ] [MainThread]: Running with dbt=1.12.0-b3
+[0m11:29:59.780368 [debug] [MainThread]: running dbt with arguments {'static_parser': 'True', 'no_print': 'None', 'version_check': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'maximum_seed_size_mib': '1', 'printer_width': '80', 'write_json': 'True', 'introspect': 'True', 'log_cache_events': 'False', 'empty': 'None', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\Almazt\\.dbt', 'invocation_command': 'dbt test', 'use_colors': 'True', 'indirect_selection': 'eager', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m11:29:59.780368 [error] [MainThread]: [[31mERROR[0m]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path D:\Personal\Kifiya 10 Academy\10 Academy\Week_8_medical-telegram-warehouse\dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m11:29:59.780368 [debug] [MainThread]: Command `dbt test` failed at 11:29:59.780368 after 0.17 seconds
+[0m11:29:59.786219 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000169480660C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000016949A91E20>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000016949A91F40>]}
+[0m11:29:59.786219 [debug] [MainThread]: Flushing usage events
+[0m11:30:00.900326 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m11:59:02.501989 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000274B972F530>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000274B745B4D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000274B9AEB4A0>]}
+
+
+============================== 11:59:02.517877 | afb981e3-2172-47c1-951e-db1f5bf5223e ==============================
+[0m11:59:02.517877 [info ] [MainThread]: Running with dbt=1.12.0-b3
+[0m11:59:02.517877 [debug] [MainThread]: running dbt with arguments {'version_check': 'True', 'no_print': 'None', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'target_path': 'None', 'maximum_seed_size_mib': '1', 'printer_width': '80', 'write_json': 'True', 'introspect': 'True', 'log_cache_events': 'False', 'empty': 'None', 'cache_selected_only': 'False', 'log_format': 'default', 'debug': 'False', 'fail_fast': 'False', 'profiles_dir': 'C:\\Users\\Almazt\\.dbt', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'partial_parse': 'True', 'indirect_selection': 'eager', 'use_colors': 'True', 'invocation_command': 'dbt test', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m11:59:02.517877 [error] [MainThread]: [[31mERROR[0m]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path D:\Personal\Kifiya 10 Academy\10 Academy\Week_8_medical-telegram-warehouse\dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m11:59:02.517877 [debug] [MainThread]: Command `dbt test` failed at 11:59:02.517877 after 0.18 seconds
+[0m11:59:02.517877 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000274B9C14740>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000274B9113770>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000274B73687A0>]}
+[0m11:59:02.517877 [debug] [MainThread]: Flushing usage events
+[0m11:59:04.160101 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m12:08:12.651826 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F7804AA2A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F782203440>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F7FD81B530>]}
+
+
+============================== 12:08:12.661096 | 4dd3ef7b-1da2-465a-a27e-0742159fd3cb ==============================
+[0m12:08:12.661096 [info ] [MainThread]: Running with dbt=1.12.0-b3
+[0m12:08:12.661096 [debug] [MainThread]: running dbt with arguments {'maximum_seed_size_mib': '1', 'no_print': 'None', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'target_path': 'None', 'version_check': 'True', 'printer_width': '80', 'write_json': 'True', 'empty': 'False', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\Almazt\\.dbt', 'invocation_command': 'dbt run', 'indirect_selection': 'eager', 'use_colors': 'True', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m12:08:12.661096 [error] [MainThread]: [[31mERROR[0m]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path D:\Personal\Kifiya 10 Academy\10 Academy\Week_8_medical-telegram-warehouse\dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m12:08:12.661096 [debug] [MainThread]: Command `dbt run` failed at 12:08:12.661096 after 0.19 seconds
+[0m12:08:12.661096 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F780613C20>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F7FF9FC950>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F781FD3EF0>]}
+[0m12:08:12.661096 [debug] [MainThread]: Flushing usage events
+[0m12:08:13.424808 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m12:13:48.207262 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000168E469B620>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000168E70898E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000168E626BFE0>]}
+
+
+============================== 12:13:48.222918 | ca860eda-7e2e-450a-9c2e-197b40754dc5 ==============================
+[0m12:13:48.222918 [info ] [MainThread]: Running with dbt=1.12.0-b3
+[0m12:13:48.222918 [debug] [MainThread]: running dbt with arguments {'static_parser': 'True', 'no_print': 'None', 'version_check': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'maximum_seed_size_mib': '1', 'printer_width': '80', 'write_json': 'True', 'empty': 'False', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'profiles_dir': 'C:\\Users\\Almazt\\.dbt', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'partial_parse': 'True', 'use_colors': 'True', 'invocation_command': 'dbt run', 'indirect_selection': 'eager', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m12:13:48.222918 [error] [MainThread]: [[31mERROR[0m]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path D:\Personal\Kifiya 10 Academy\10 Academy\Week_8_medical-telegram-warehouse\dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m12:13:48.222918 [debug] [MainThread]: Command `dbt run` failed at 12:13:48.222918 after 0.18 seconds
+[0m12:13:48.222918 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000168E626BFE0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000168E74A73E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000168E8E3FEF0>]}
+[0m12:13:48.222918 [debug] [MainThread]: Flushing usage events
+[0m12:13:49.015022 [debug] [MainThread]: An error was encountered while trying to flush usage events

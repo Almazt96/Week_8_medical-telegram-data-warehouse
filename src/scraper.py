@@ -22,7 +22,7 @@ API_ID = os.getenv("API_ID")
 API_HASH = os.getenv("API_HASH")
 # API_ID = os.getenv("TG_API_ID")
 # API_HASH = os.getenv("TG_API_HASH")
-CHANNELS = ["https://t.me/CheMed123", "https://t.me/lobelia4cosmetics", "https://t.me/tikvahpharma","https://et.tgstat.com/medicine"]
+CHANNELS = ["@CheMed123", "@lobelia4cosmetics", "@tikvahpharma","@TGStat"]
 
 # Quick safety check to prevent the crash and tell you exactly what's missing
 if not API_ID or not API_HASH:

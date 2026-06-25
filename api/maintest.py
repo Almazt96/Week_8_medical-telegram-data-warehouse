@@ -1,5 +1,16 @@
+import asyncio
+import os
+from dotenv import load_dotenv
+from telethon import TelegramClient
+from dotenv import load_dotenv
+
+load_dotenv()
+
+API_ID = os.getenv('API_ID')
+API_HASH = os.getenv('API_HASH')
+
 async def main():
-    async with telethon.TelegramClient('session_scout', int(API_ID), API_HASH) as client:
+    async with TelegramClient('session_scout', int(API_ID), API_HASH) as client:
         print("Testing connection...")
         
         # Fetch the 5 most recent chats you have open

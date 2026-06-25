@@ -16,7 +16,7 @@ app = FastAPI(title="Ethiopian Medical Channels Insights Engine", version="1.0.0
 def get_db_cursor():
     conn = psycopg2.connect(
         host=os.getenv("DB_HOST", "localhost"),
-        database=os.getenv("DB_NAME", "medical_db"),
+        database=os.getenv("DB_NAME", "postgres"),
         user=os.getenv("DB_USER", "postgres"),
         password=os.getenv("DB_PASSWORD"),
         cursor_factory=RealDictCursor
@@ -43,7 +43,7 @@ class MessageItem(BaseModel):
 
 @app.get("/api/reports/top-products", response_model=List[ProductMention])
 def get_top_products(limit: int = 10, cursor = Depends(get_db_cursor)):
-    query = """
+    query = r"""
         SELECT word as product_name, count(*) as mention_count 
         FROM (
             SELECT regexp_split_to_table(lower(message_text), '\s+') as word 

@@ -10,3 +10,980 @@
 2026-06-25 10:11:38,700 [ERROR] Error extracting from https://et.tgstat.com/medicine: Cannot find any entity corresponding to "https://et.tgstat.com/medicine"
 2026-06-25 10:11:38,700 [INFO] Disconnecting from 149.154.167.92:443/TcpFull...
 2026-06-25 10:11:38,701 [INFO] Disconnection from 149.154.167.92:443/TcpFull complete!
+2026-06-25 13:01:02,086 [INFO] Connecting to 149.154.167.92:443/TcpFull...
+2026-06-25 13:01:02,092 [INFO] Connection to 149.154.167.92:443/TcpFull complete!
+2026-06-25 13:01:02,768 [INFO] Starting scraping for channel: @CheMed123
+2026-06-25 13:01:03,290 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:03,753 [INFO] Downloaded media for message 97
+2026-06-25 13:01:03,764 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:04,388 [INFO] Downloaded media for message 96
+2026-06-25 13:01:04,390 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:04,733 [INFO] Downloaded media for message 95
+2026-06-25 13:01:04,734 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:05,100 [INFO] Downloaded media for message 94
+2026-06-25 13:01:05,101 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:05,654 [INFO] Downloaded media for message 93
+2026-06-25 13:01:05,656 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:06,279 [INFO] Downloaded media for message 92
+2026-06-25 13:01:06,280 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:06,632 [INFO] Downloaded media for message 91
+2026-06-25 13:01:06,634 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:07,384 [INFO] Downloaded media for message 90
+2026-06-25 13:01:07,385 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:08,073 [INFO] Downloaded media for message 88
+2026-06-25 13:01:08,074 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:08,605 [INFO] Downloaded media for message 87
+2026-06-25 13:01:08,608 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:09,195 [INFO] Downloaded media for message 86
+2026-06-25 13:01:09,196 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:09,500 [INFO] Downloaded media for message 85
+2026-06-25 13:01:09,502 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:09,836 [INFO] Downloaded media for message 82
+2026-06-25 13:01:09,838 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:10,504 [INFO] Downloaded media for message 81
+2026-06-25 13:01:10,506 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:10,918 [INFO] Downloaded media for message 80
+2026-06-25 13:01:10,919 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:11,560 [INFO] Downloaded media for message 79
+2026-06-25 13:01:11,561 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:12,200 [INFO] Downloaded media for message 78
+2026-06-25 13:01:12,201 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:12,792 [INFO] Downloaded media for message 77
+2026-06-25 13:01:12,794 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:13,327 [INFO] Downloaded media for message 76
+2026-06-25 13:01:13,329 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:13,856 [INFO] Downloaded media for message 75
+2026-06-25 13:01:13,857 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:14,194 [INFO] Downloaded media for message 74
+2026-06-25 13:01:14,194 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:14,759 [INFO] Downloaded media for message 71
+2026-06-25 13:01:14,760 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:15,309 [INFO] Downloaded media for message 70
+2026-06-25 13:01:15,311 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:15,898 [INFO] Downloaded media for message 67
+2026-06-25 13:01:15,899 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:16,463 [INFO] Downloaded media for message 64
+2026-06-25 13:01:16,464 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:16,814 [INFO] Downloaded media for message 60
+2026-06-25 13:01:16,815 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:17,250 [INFO] Downloaded media for message 59
+2026-06-25 13:01:17,251 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:17,577 [INFO] Downloaded media for message 58
+2026-06-25 13:01:17,578 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:17,894 [INFO] Downloaded media for message 57
+2026-06-25 13:01:17,894 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:18,520 [INFO] Downloaded media for message 56
+2026-06-25 13:01:18,523 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:19,092 [INFO] Downloaded media for message 55
+2026-06-25 13:01:19,094 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:19,601 [INFO] Downloaded media for message 53
+2026-06-25 13:01:19,603 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:19,937 [INFO] Downloaded media for message 52
+2026-06-25 13:01:19,938 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:20,260 [INFO] Downloaded media for message 50
+2026-06-25 13:01:20,262 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:20,576 [INFO] Downloaded media for message 49
+2026-06-25 13:01:20,577 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:21,277 [INFO] Downloaded media for message 48
+2026-06-25 13:01:21,278 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:21,625 [INFO] Downloaded media for message 46
+2026-06-25 13:01:21,625 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:21,996 [INFO] Downloaded media for message 45
+2026-06-25 13:01:21,998 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:22,325 [INFO] Downloaded media for message 44
+2026-06-25 13:01:22,325 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:22,714 [INFO] Downloaded media for message 43
+2026-06-25 13:01:22,714 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:23,265 [INFO] Downloaded media for message 41
+2026-06-25 13:01:23,267 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:23,634 [INFO] Downloaded media for message 40
+2026-06-25 13:01:23,635 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:24,507 [INFO] Downloaded media for message 39
+2026-06-25 13:01:24,509 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:24,863 [INFO] Downloaded media for message 38
+2026-06-25 13:01:24,864 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:25,176 [INFO] Downloaded media for message 34
+2026-06-25 13:01:25,177 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:25,845 [INFO] Downloaded media for message 33
+2026-06-25 13:01:25,848 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:26,263 [INFO] Downloaded media for message 32
+2026-06-25 13:01:26,264 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:26,654 [INFO] Downloaded media for message 31
+2026-06-25 13:01:26,655 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:26,935 [INFO] Downloaded media for message 30
+2026-06-25 13:01:26,936 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:27,485 [INFO] Downloaded media for message 29
+2026-06-25 13:01:27,487 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:27,794 [INFO] Downloaded media for message 27
+2026-06-25 13:01:27,795 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:28,423 [INFO] Downloaded media for message 26
+2026-06-25 13:01:28,424 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:28,737 [INFO] Downloaded media for message 25
+2026-06-25 13:01:28,739 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:29,065 [INFO] Downloaded media for message 23
+2026-06-25 13:01:29,068 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:29,347 [INFO] Downloaded media for message 22
+2026-06-25 13:01:29,349 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:29,714 [INFO] Downloaded media for message 21
+2026-06-25 13:01:29,715 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:30,418 [INFO] Downloaded media for message 20
+2026-06-25 13:01:30,419 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:31,141 [INFO] Downloaded media for message 19
+2026-06-25 13:01:31,142 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:31,494 [INFO] Downloaded media for message 18
+2026-06-25 13:01:31,495 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:31,881 [INFO] Downloaded media for message 17
+2026-06-25 13:01:31,882 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:32,193 [INFO] Downloaded media for message 15
+2026-06-25 13:01:32,195 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:32,730 [INFO] Downloaded media for message 14
+2026-06-25 13:01:32,731 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:33,448 [INFO] Downloaded media for message 13
+2026-06-25 13:01:33,449 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:33,849 [INFO] Downloaded media for message 11
+2026-06-25 13:01:33,850 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:34,400 [INFO] Downloaded media for message 10
+2026-06-25 13:01:34,401 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:34,629 [INFO] Downloaded media for message 9
+2026-06-25 13:01:34,631 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:34,818 [INFO] Downloaded media for message 4
+2026-06-25 13:01:34,819 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:35,025 [INFO] Downloaded media for message 3
+2026-06-25 13:01:35,026 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:35,244 [INFO] Downloaded media for message 2
+2026-06-25 13:01:35,285 [INFO] Completed channel @CheMed123. Saved 76 records.
+2026-06-25 13:01:35,285 [INFO] Starting scraping for channel: @lobelia4cosmetics
+2026-06-25 13:01:35,851 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:36,207 [INFO] Downloaded media for message 26591
+2026-06-25 13:01:36,209 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:36,576 [INFO] Downloaded media for message 26590
+2026-06-25 13:01:36,577 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:36,803 [INFO] Downloaded media for message 26589
+2026-06-25 13:01:36,805 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:37,225 [INFO] Downloaded media for message 26588
+2026-06-25 13:01:37,226 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:37,380 [INFO] Downloaded media for message 26587
+2026-06-25 13:01:37,381 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:37,650 [INFO] Downloaded media for message 26586
+2026-06-25 13:01:37,653 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:37,959 [INFO] Downloaded media for message 26585
+2026-06-25 13:01:37,960 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:38,203 [INFO] Downloaded media for message 26584
+2026-06-25 13:01:38,205 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:38,408 [INFO] Downloaded media for message 26583
+2026-06-25 13:01:38,409 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:38,728 [INFO] Downloaded media for message 26582
+2026-06-25 13:01:38,729 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:39,076 [INFO] Downloaded media for message 26581
+2026-06-25 13:01:39,078 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:39,599 [INFO] Downloaded media for message 26580
+2026-06-25 13:01:39,600 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:39,885 [INFO] Downloaded media for message 26579
+2026-06-25 13:01:39,887 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:40,182 [INFO] Downloaded media for message 26578
+2026-06-25 13:01:40,183 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:40,530 [INFO] Downloaded media for message 26577
+2026-06-25 13:01:40,531 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:41,064 [INFO] Downloaded media for message 26576
+2026-06-25 13:01:41,066 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:41,429 [INFO] Downloaded media for message 26575
+2026-06-25 13:01:41,430 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:41,978 [INFO] Downloaded media for message 26574
+2026-06-25 13:01:41,979 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:42,290 [INFO] Downloaded media for message 26573
+2026-06-25 13:01:42,293 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:42,829 [INFO] Downloaded media for message 26572
+2026-06-25 13:01:42,830 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:43,083 [INFO] Downloaded media for message 26571
+2026-06-25 13:01:43,084 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:43,506 [INFO] Downloaded media for message 26570
+2026-06-25 13:01:43,507 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:43,755 [INFO] Downloaded media for message 26569
+2026-06-25 13:01:43,758 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:44,095 [INFO] Downloaded media for message 26568
+2026-06-25 13:01:44,097 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:44,265 [INFO] Downloaded media for message 26567
+2026-06-25 13:01:44,266 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:44,448 [INFO] Downloaded media for message 26566
+2026-06-25 13:01:44,449 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:44,675 [INFO] Downloaded media for message 26565
+2026-06-25 13:01:44,677 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:44,951 [INFO] Downloaded media for message 26564
+2026-06-25 13:01:44,953 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:45,510 [INFO] Downloaded media for message 26563
+2026-06-25 13:01:45,511 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:47,541 [INFO] Downloaded media for message 26562
+2026-06-25 13:01:47,543 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:47,835 [INFO] Downloaded media for message 26561
+2026-06-25 13:01:47,837 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:50,597 [INFO] Downloaded media for message 26560
+2026-06-25 13:01:50,599 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:50,957 [INFO] Downloaded media for message 26559
+2026-06-25 13:01:50,958 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:51,337 [INFO] Downloaded media for message 26558
+2026-06-25 13:01:51,338 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:51,629 [INFO] Downloaded media for message 26557
+2026-06-25 13:01:51,632 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:51,759 [INFO] Downloaded media for message 26556
+2026-06-25 13:01:51,761 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:52,069 [INFO] Downloaded media for message 26555
+2026-06-25 13:01:52,071 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:52,685 [INFO] Downloaded media for message 26554
+2026-06-25 13:01:52,687 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:53,071 [INFO] Downloaded media for message 26553
+2026-06-25 13:01:53,073 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:53,232 [INFO] Downloaded media for message 26552
+2026-06-25 13:01:53,233 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:53,609 [INFO] Downloaded media for message 26551
+2026-06-25 13:01:53,610 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:53,991 [INFO] Downloaded media for message 26550
+2026-06-25 13:01:53,992 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:54,272 [INFO] Downloaded media for message 26549
+2026-06-25 13:01:54,274 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:54,467 [INFO] Downloaded media for message 26548
+2026-06-25 13:01:54,469 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:54,773 [INFO] Downloaded media for message 26547
+2026-06-25 13:01:54,774 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:55,059 [INFO] Downloaded media for message 26546
+2026-06-25 13:01:55,060 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:55,337 [INFO] Downloaded media for message 26545
+2026-06-25 13:01:55,340 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:55,766 [INFO] Downloaded media for message 26544
+2026-06-25 13:01:55,768 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:56,134 [INFO] Downloaded media for message 26543
+2026-06-25 13:01:56,135 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:56,307 [INFO] Downloaded media for message 26542
+2026-06-25 13:01:56,309 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:56,668 [INFO] Downloaded media for message 26541
+2026-06-25 13:01:56,671 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:57,007 [INFO] Downloaded media for message 26540
+2026-06-25 13:01:57,008 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:59,108 [INFO] Downloaded media for message 26539
+2026-06-25 13:01:59,110 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:59,273 [INFO] Downloaded media for message 26538
+2026-06-25 13:01:59,274 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:01:59,798 [INFO] Downloaded media for message 26537
+2026-06-25 13:01:59,801 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:00,137 [INFO] Downloaded media for message 26536
+2026-06-25 13:02:00,139 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:00,509 [INFO] Downloaded media for message 26535
+2026-06-25 13:02:00,512 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:00,739 [INFO] Downloaded media for message 26534
+2026-06-25 13:02:00,741 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:01,343 [INFO] Downloaded media for message 26533
+2026-06-25 13:02:01,345 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:01,524 [INFO] Downloaded media for message 26532
+2026-06-25 13:02:01,525 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:02,107 [INFO] Downloaded media for message 26531
+2026-06-25 13:02:02,107 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:02,301 [INFO] Downloaded media for message 26530
+2026-06-25 13:02:02,301 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:02,867 [INFO] Downloaded media for message 26529
+2026-06-25 13:02:02,868 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:03,332 [INFO] Downloaded media for message 26528
+2026-06-25 13:02:03,333 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:03,941 [INFO] Downloaded media for message 26527
+2026-06-25 13:02:03,942 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:04,557 [INFO] Downloaded media for message 26526
+2026-06-25 13:02:04,558 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:04,915 [INFO] Downloaded media for message 26525
+2026-06-25 13:02:04,916 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:05,511 [INFO] Downloaded media for message 26524
+2026-06-25 13:02:05,513 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:05,681 [INFO] Downloaded media for message 26523
+2026-06-25 13:02:05,682 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:06,036 [INFO] Downloaded media for message 26521
+2026-06-25 13:02:06,037 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:06,442 [INFO] Downloaded media for message 26520
+2026-06-25 13:02:06,443 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:06,660 [INFO] Downloaded media for message 26519
+2026-06-25 13:02:06,661 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:07,333 [INFO] Downloaded media for message 26518
+2026-06-25 13:02:07,334 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:07,722 [INFO] Downloaded media for message 26517
+2026-06-25 13:02:07,723 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:08,115 [INFO] Downloaded media for message 26516
+2026-06-25 13:02:08,116 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:08,274 [INFO] Downloaded media for message 26515
+2026-06-25 13:02:08,277 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:08,836 [INFO] Downloaded media for message 26514
+2026-06-25 13:02:08,837 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:09,421 [INFO] Downloaded media for message 26513
+2026-06-25 13:02:09,423 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:09,807 [INFO] Downloaded media for message 26512
+2026-06-25 13:02:09,809 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:09,966 [INFO] Downloaded media for message 26511
+2026-06-25 13:02:09,969 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:10,231 [INFO] Downloaded media for message 26510
+2026-06-25 13:02:10,232 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:10,515 [INFO] Downloaded media for message 26509
+2026-06-25 13:02:10,516 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:11,069 [INFO] Downloaded media for message 26508
+2026-06-25 13:02:11,070 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:11,347 [INFO] Downloaded media for message 26507
+2026-06-25 13:02:11,349 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:11,691 [INFO] Downloaded media for message 26506
+2026-06-25 13:02:11,691 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:11,881 [INFO] Downloaded media for message 26505
+2026-06-25 13:02:11,882 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:12,052 [INFO] Downloaded media for message 26504
+2026-06-25 13:02:12,053 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:12,760 [INFO] Downloaded media for message 26503
+2026-06-25 13:02:12,763 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:13,003 [INFO] Downloaded media for message 26502
+2026-06-25 13:02:13,004 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:13,391 [INFO] Downloaded media for message 26501
+2026-06-25 13:02:13,392 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:14,017 [INFO] Downloaded media for message 26500
+2026-06-25 13:02:14,019 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:14,545 [INFO] Downloaded media for message 26499
+2026-06-25 13:02:14,547 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:14,836 [INFO] Downloaded media for message 26498
+2026-06-25 13:02:14,837 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:15,145 [INFO] Downloaded media for message 26497
+2026-06-25 13:02:15,146 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:17,277 [INFO] Downloaded media for message 26496
+2026-06-25 13:02:17,279 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:17,581 [INFO] Downloaded media for message 26495
+2026-06-25 13:02:17,583 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:17,907 [INFO] Downloaded media for message 26494
+2026-06-25 13:02:17,908 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:18,286 [INFO] Downloaded media for message 26493
+2026-06-25 13:02:18,287 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:18,517 [INFO] Downloaded media for message 26492
+2026-06-25 13:02:18,518 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:19,123 [INFO] Downloaded media for message 26491
+2026-06-25 13:02:19,183 [INFO] Completed channel @lobelia4cosmetics. Saved 100 records.
+2026-06-25 13:02:19,183 [INFO] Starting scraping for channel: @tikvahpharma
+2026-06-25 13:02:19,894 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:20,255 [INFO] Downloaded media for message 196313
+2026-06-25 13:02:20,257 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:20,505 [INFO] Downloaded media for message 196312
+2026-06-25 13:02:20,506 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:21,101 [INFO] Downloaded media for message 196311
+2026-06-25 13:02:21,102 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:21,400 [INFO] Downloaded media for message 196310
+2026-06-25 13:02:21,403 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:21,638 [INFO] Downloaded media for message 196295
+2026-06-25 13:02:21,641 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:21,975 [INFO] Downloaded media for message 196288
+2026-06-25 13:02:21,976 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:22,184 [INFO] Downloaded media for message 196286
+2026-06-25 13:02:22,187 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:22,428 [INFO] Downloaded media for message 196271
+2026-06-25 13:02:22,430 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:22,991 [INFO] Downloaded media for message 196270
+2026-06-25 13:02:22,993 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:23,273 [INFO] Downloaded media for message 196269
+2026-06-25 13:02:23,274 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:23,615 [INFO] Downloaded media for message 196268
+2026-06-25 13:02:23,619 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:23,951 [INFO] Downloaded media for message 196247
+2026-06-25 13:02:23,952 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:24,570 [INFO] Downloaded media for message 196246
+2026-06-25 13:02:24,576 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:24,790 [INFO] Downloaded media for message 196225
+2026-06-25 13:02:24,792 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:25,008 [INFO] Downloaded media for message 196224
+2026-06-25 13:02:25,010 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:25,602 [INFO] Downloaded media for message 196211
+2026-06-25 13:02:25,603 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:26,222 [INFO] Downloaded media for message 196207
+2026-06-25 13:02:26,226 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:26,522 [INFO] Downloaded media for message 196199
+2026-06-25 13:02:26,522 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:02:26,808 [INFO] Downloaded media for message 196198
+2026-06-25 13:02:26,894 [INFO] Completed channel @tikvahpharma. Saved 100 records.
+2026-06-25 13:02:26,895 [INFO] Starting scraping for channel: @medicine
+2026-06-25 13:02:27,009 [ERROR] Error extracting from @medicine: No user has "medicine" as username
+2026-06-25 13:02:27,009 [INFO] Disconnecting from 149.154.167.92:443/TcpFull...
+2026-06-25 13:02:27,010 [INFO] Disconnection from 149.154.167.92:443/TcpFull complete!
+2026-06-25 13:09:47,587 [INFO] Connecting to 149.154.167.92:443/TcpFull...
+2026-06-25 13:09:47,611 [INFO] Connection to 149.154.167.92:443/TcpFull complete!
+2026-06-25 13:09:48,261 [INFO] Starting scraping for channel: @CheMed123
+2026-06-25 13:09:48,804 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:49,213 [INFO] Downloaded media for message 97
+2026-06-25 13:09:49,219 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:49,803 [INFO] Downloaded media for message 96
+2026-06-25 13:09:49,805 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:50,136 [INFO] Downloaded media for message 95
+2026-06-25 13:09:50,139 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:50,505 [INFO] Downloaded media for message 94
+2026-06-25 13:09:50,509 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:51,004 [INFO] Downloaded media for message 93
+2026-06-25 13:09:51,009 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:51,538 [INFO] Downloaded media for message 92
+2026-06-25 13:09:51,541 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:51,857 [INFO] Downloaded media for message 91
+2026-06-25 13:09:51,863 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:52,496 [INFO] Downloaded media for message 90
+2026-06-25 13:09:52,499 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:53,031 [INFO] Downloaded media for message 88
+2026-06-25 13:09:53,036 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:53,548 [INFO] Downloaded media for message 87
+2026-06-25 13:09:53,554 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:54,122 [INFO] Downloaded media for message 86
+2026-06-25 13:09:54,124 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:54,417 [INFO] Downloaded media for message 85
+2026-06-25 13:09:54,420 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:54,781 [INFO] Downloaded media for message 82
+2026-06-25 13:09:54,784 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:55,347 [INFO] Downloaded media for message 81
+2026-06-25 13:09:55,350 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:55,719 [INFO] Downloaded media for message 80
+2026-06-25 13:09:55,722 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:56,444 [INFO] Downloaded media for message 79
+2026-06-25 13:09:56,447 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:57,052 [INFO] Downloaded media for message 78
+2026-06-25 13:09:57,057 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:57,598 [INFO] Downloaded media for message 77
+2026-06-25 13:09:57,602 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:58,103 [INFO] Downloaded media for message 76
+2026-06-25 13:09:58,108 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:58,629 [INFO] Downloaded media for message 75
+2026-06-25 13:09:58,631 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:58,942 [INFO] Downloaded media for message 74
+2026-06-25 13:09:58,946 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:59,461 [INFO] Downloaded media for message 71
+2026-06-25 13:09:59,465 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:09:59,990 [INFO] Downloaded media for message 70
+2026-06-25 13:09:59,993 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:00,554 [INFO] Downloaded media for message 67
+2026-06-25 13:10:00,558 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:01,131 [INFO] Downloaded media for message 64
+2026-06-25 13:10:01,134 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:01,479 [INFO] Downloaded media for message 60
+2026-06-25 13:10:01,481 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:01,856 [INFO] Downloaded media for message 59
+2026-06-25 13:10:01,858 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:02,078 [INFO] Downloaded media for message 58
+2026-06-25 13:10:02,082 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:02,380 [INFO] Downloaded media for message 57
+2026-06-25 13:10:02,382 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:02,963 [INFO] Downloaded media for message 56
+2026-06-25 13:10:02,966 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:03,504 [INFO] Downloaded media for message 55
+2026-06-25 13:10:03,508 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:04,042 [INFO] Downloaded media for message 53
+2026-06-25 13:10:04,046 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:04,361 [INFO] Downloaded media for message 52
+2026-06-25 13:10:04,363 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:04,699 [INFO] Downloaded media for message 50
+2026-06-25 13:10:04,703 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:05,010 [INFO] Downloaded media for message 49
+2026-06-25 13:10:05,014 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:05,682 [INFO] Downloaded media for message 48
+2026-06-25 13:10:05,685 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:06,027 [INFO] Downloaded media for message 46
+2026-06-25 13:10:06,030 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:06,392 [INFO] Downloaded media for message 45
+2026-06-25 13:10:06,396 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:06,708 [INFO] Downloaded media for message 44
+2026-06-25 13:10:06,711 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:07,095 [INFO] Downloaded media for message 43
+2026-06-25 13:10:07,097 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:07,670 [INFO] Downloaded media for message 41
+2026-06-25 13:10:07,672 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:07,980 [INFO] Downloaded media for message 40
+2026-06-25 13:10:07,984 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:08,309 [INFO] Downloaded media for message 39
+2026-06-25 13:10:08,313 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:08,681 [INFO] Downloaded media for message 38
+2026-06-25 13:10:08,683 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:09,030 [INFO] Downloaded media for message 34
+2026-06-25 13:10:09,033 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:09,601 [INFO] Downloaded media for message 33
+2026-06-25 13:10:09,604 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:10,028 [INFO] Downloaded media for message 32
+2026-06-25 13:10:10,032 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:10,405 [INFO] Downloaded media for message 31
+2026-06-25 13:10:10,408 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:10,685 [INFO] Downloaded media for message 30
+2026-06-25 13:10:10,690 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:11,209 [INFO] Downloaded media for message 29
+2026-06-25 13:10:11,211 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:11,513 [INFO] Downloaded media for message 27
+2026-06-25 13:10:11,518 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:12,130 [INFO] Downloaded media for message 26
+2026-06-25 13:10:12,132 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:12,436 [INFO] Downloaded media for message 25
+2026-06-25 13:10:12,441 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:12,800 [INFO] Downloaded media for message 23
+2026-06-25 13:10:12,803 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:13,064 [INFO] Downloaded media for message 22
+2026-06-25 13:10:13,066 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:13,407 [INFO] Downloaded media for message 21
+2026-06-25 13:10:13,412 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:14,130 [INFO] Downloaded media for message 20
+2026-06-25 13:10:14,133 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:14,798 [INFO] Downloaded media for message 19
+2026-06-25 13:10:14,800 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:15,143 [INFO] Downloaded media for message 18
+2026-06-25 13:10:15,145 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:15,659 [INFO] Downloaded media for message 17
+2026-06-25 13:10:15,662 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:15,961 [INFO] Downloaded media for message 15
+2026-06-25 13:10:15,964 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:16,463 [INFO] Downloaded media for message 14
+2026-06-25 13:10:16,468 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:17,177 [INFO] Downloaded media for message 13
+2026-06-25 13:10:17,181 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:17,565 [INFO] Downloaded media for message 11
+2026-06-25 13:10:17,568 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:18,113 [INFO] Downloaded media for message 10
+2026-06-25 13:10:18,115 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:18,338 [INFO] Downloaded media for message 9
+2026-06-25 13:10:18,341 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:18,505 [INFO] Downloaded media for message 4
+2026-06-25 13:10:18,507 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:18,699 [INFO] Downloaded media for message 3
+2026-06-25 13:10:18,703 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:19,054 [INFO] Downloaded media for message 2
+2026-06-25 13:10:19,076 [INFO] Completed channel @CheMed123. Saved 76 records.
+2026-06-25 13:10:19,076 [INFO] Starting scraping for channel: @lobelia4cosmetics
+2026-06-25 13:10:19,526 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:20,103 [INFO] Downloaded media for message 26591
+2026-06-25 13:10:20,105 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:20,476 [INFO] Downloaded media for message 26590
+2026-06-25 13:10:20,479 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:20,704 [INFO] Downloaded media for message 26589
+2026-06-25 13:10:20,707 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:21,090 [INFO] Downloaded media for message 26588
+2026-06-25 13:10:21,092 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:21,245 [INFO] Downloaded media for message 26587
+2026-06-25 13:10:21,250 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:21,514 [INFO] Downloaded media for message 26586
+2026-06-25 13:10:21,518 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:21,806 [INFO] Downloaded media for message 26585
+2026-06-25 13:10:21,809 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:22,046 [INFO] Downloaded media for message 26584
+2026-06-25 13:10:22,050 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:22,241 [INFO] Downloaded media for message 26583
+2026-06-25 13:10:22,244 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:22,564 [INFO] Downloaded media for message 26582
+2026-06-25 13:10:22,566 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:22,881 [INFO] Downloaded media for message 26581
+2026-06-25 13:10:22,884 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:23,395 [INFO] Downloaded media for message 26580
+2026-06-25 13:10:23,401 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:23,692 [INFO] Downloaded media for message 26579
+2026-06-25 13:10:23,694 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:23,976 [INFO] Downloaded media for message 26578
+2026-06-25 13:10:23,979 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:24,321 [INFO] Downloaded media for message 26577
+2026-06-25 13:10:24,323 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:24,825 [INFO] Downloaded media for message 26576
+2026-06-25 13:10:24,831 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:25,157 [INFO] Downloaded media for message 26575
+2026-06-25 13:10:25,161 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:25,694 [INFO] Downloaded media for message 26574
+2026-06-25 13:10:25,696 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:26,025 [INFO] Downloaded media for message 26573
+2026-06-25 13:10:26,028 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:26,548 [INFO] Downloaded media for message 26572
+2026-06-25 13:10:26,551 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:26,804 [INFO] Downloaded media for message 26571
+2026-06-25 13:10:26,807 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:27,163 [INFO] Downloaded media for message 26570
+2026-06-25 13:10:27,165 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:27,404 [INFO] Downloaded media for message 26569
+2026-06-25 13:10:27,409 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:27,766 [INFO] Downloaded media for message 26568
+2026-06-25 13:10:27,768 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:27,930 [INFO] Downloaded media for message 26567
+2026-06-25 13:10:27,933 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:28,098 [INFO] Downloaded media for message 26566
+2026-06-25 13:10:28,102 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:28,381 [INFO] Downloaded media for message 26565
+2026-06-25 13:10:28,385 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:28,735 [INFO] Downloaded media for message 26564
+2026-06-25 13:10:28,739 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:29,316 [INFO] Downloaded media for message 26563
+2026-06-25 13:10:29,320 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:31,409 [INFO] Downloaded media for message 26562
+2026-06-25 13:10:31,411 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:31,702 [INFO] Downloaded media for message 26561
+2026-06-25 13:10:31,707 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:34,289 [INFO] Downloaded media for message 26560
+2026-06-25 13:10:34,292 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:34,647 [INFO] Downloaded media for message 26559
+2026-06-25 13:10:34,649 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:35,020 [INFO] Downloaded media for message 26558
+2026-06-25 13:10:35,023 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:35,304 [INFO] Downloaded media for message 26557
+2026-06-25 13:10:35,308 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:35,444 [INFO] Downloaded media for message 26556
+2026-06-25 13:10:35,449 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:35,754 [INFO] Downloaded media for message 26555
+2026-06-25 13:10:35,758 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:36,359 [INFO] Downloaded media for message 26554
+2026-06-25 13:10:36,362 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:36,745 [INFO] Downloaded media for message 26553
+2026-06-25 13:10:36,748 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:36,902 [INFO] Downloaded media for message 26552
+2026-06-25 13:10:36,905 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:37,285 [INFO] Downloaded media for message 26551
+2026-06-25 13:10:37,288 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:37,665 [INFO] Downloaded media for message 26550
+2026-06-25 13:10:37,668 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:37,896 [INFO] Downloaded media for message 26549
+2026-06-25 13:10:37,900 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:38,053 [INFO] Downloaded media for message 26548
+2026-06-25 13:10:38,056 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:38,381 [INFO] Downloaded media for message 26547
+2026-06-25 13:10:38,383 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:38,669 [INFO] Downloaded media for message 26546
+2026-06-25 13:10:38,672 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:38,938 [INFO] Downloaded media for message 26545
+2026-06-25 13:10:38,943 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:39,229 [INFO] Downloaded media for message 26544
+2026-06-25 13:10:39,231 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:39,561 [INFO] Downloaded media for message 26543
+2026-06-25 13:10:39,563 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:39,729 [INFO] Downloaded media for message 26542
+2026-06-25 13:10:39,733 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:40,041 [INFO] Downloaded media for message 26541
+2026-06-25 13:10:40,043 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:40,368 [INFO] Downloaded media for message 26540
+2026-06-25 13:10:40,373 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:42,078 [INFO] Downloaded media for message 26539
+2026-06-25 13:10:42,080 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:42,249 [INFO] Downloaded media for message 26538
+2026-06-25 13:10:42,252 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:42,779 [INFO] Downloaded media for message 26537
+2026-06-25 13:10:42,782 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:43,109 [INFO] Downloaded media for message 26536
+2026-06-25 13:10:43,113 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:43,501 [INFO] Downloaded media for message 26535
+2026-06-25 13:10:43,504 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:43,733 [INFO] Downloaded media for message 26534
+2026-06-25 13:10:43,736 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:44,335 [INFO] Downloaded media for message 26533
+2026-06-25 13:10:44,337 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:44,527 [INFO] Downloaded media for message 26532
+2026-06-25 13:10:44,530 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:45,104 [INFO] Downloaded media for message 26531
+2026-06-25 13:10:45,107 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:45,289 [INFO] Downloaded media for message 26530
+2026-06-25 13:10:45,294 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:45,822 [INFO] Downloaded media for message 26529
+2026-06-25 13:10:45,824 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:46,186 [INFO] Downloaded media for message 26528
+2026-06-25 13:10:46,189 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:46,750 [INFO] Downloaded media for message 26527
+2026-06-25 13:10:46,754 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:47,315 [INFO] Downloaded media for message 26526
+2026-06-25 13:10:47,319 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:47,682 [INFO] Downloaded media for message 26525
+2026-06-25 13:10:47,685 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:48,228 [INFO] Downloaded media for message 26524
+2026-06-25 13:10:48,230 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:48,406 [INFO] Downloaded media for message 26523
+2026-06-25 13:10:48,408 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:48,757 [INFO] Downloaded media for message 26521
+2026-06-25 13:10:48,760 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:49,147 [INFO] Downloaded media for message 26520
+2026-06-25 13:10:49,149 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:49,338 [INFO] Downloaded media for message 26519
+2026-06-25 13:10:49,343 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:49,936 [INFO] Downloaded media for message 26518
+2026-06-25 13:10:49,940 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:50,303 [INFO] Downloaded media for message 26517
+2026-06-25 13:10:50,307 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:50,758 [INFO] Downloaded media for message 26516
+2026-06-25 13:10:50,761 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:51,008 [INFO] Downloaded media for message 26515
+2026-06-25 13:10:51,011 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:51,562 [INFO] Downloaded media for message 26514
+2026-06-25 13:10:51,565 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:52,200 [INFO] Downloaded media for message 26513
+2026-06-25 13:10:52,203 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:52,679 [INFO] Downloaded media for message 26512
+2026-06-25 13:10:52,681 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:52,985 [INFO] Downloaded media for message 26511
+2026-06-25 13:10:52,988 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:53,329 [INFO] Downloaded media for message 26510
+2026-06-25 13:10:53,332 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:53,691 [INFO] Downloaded media for message 26509
+2026-06-25 13:10:53,694 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:54,219 [INFO] Downloaded media for message 26508
+2026-06-25 13:10:54,222 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:54,457 [INFO] Downloaded media for message 26507
+2026-06-25 13:10:54,460 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:54,801 [INFO] Downloaded media for message 26506
+2026-06-25 13:10:54,803 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:54,996 [INFO] Downloaded media for message 26505
+2026-06-25 13:10:54,999 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:55,191 [INFO] Downloaded media for message 26504
+2026-06-25 13:10:55,194 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:55,927 [INFO] Downloaded media for message 26503
+2026-06-25 13:10:55,929 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:56,161 [INFO] Downloaded media for message 26502
+2026-06-25 13:10:56,166 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:57,059 [INFO] Downloaded media for message 26501
+2026-06-25 13:10:57,064 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:57,679 [INFO] Downloaded media for message 26500
+2026-06-25 13:10:57,682 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:58,203 [INFO] Downloaded media for message 26499
+2026-06-25 13:10:58,206 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:58,435 [INFO] Downloaded media for message 26498
+2026-06-25 13:10:58,438 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:10:58,726 [INFO] Downloaded media for message 26497
+2026-06-25 13:10:58,731 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:00,775 [INFO] Downloaded media for message 26496
+2026-06-25 13:11:00,780 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:01,075 [INFO] Downloaded media for message 26495
+2026-06-25 13:11:01,077 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:01,398 [INFO] Downloaded media for message 26494
+2026-06-25 13:11:01,403 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:01,765 [INFO] Downloaded media for message 26493
+2026-06-25 13:11:01,769 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:02,002 [INFO] Downloaded media for message 26492
+2026-06-25 13:11:02,004 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:02,600 [INFO] Downloaded media for message 26491
+2026-06-25 13:11:02,657 [INFO] Completed channel @lobelia4cosmetics. Saved 100 records.
+2026-06-25 13:11:02,658 [INFO] Starting scraping for channel: @tikvahpharma
+2026-06-25 13:11:03,291 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:03,622 [INFO] Downloaded media for message 196313
+2026-06-25 13:11:03,624 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:03,864 [INFO] Downloaded media for message 196312
+2026-06-25 13:11:03,867 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:04,426 [INFO] Downloaded media for message 196311
+2026-06-25 13:11:04,429 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:04,706 [INFO] Downloaded media for message 196310
+2026-06-25 13:11:04,715 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:04,962 [INFO] Downloaded media for message 196295
+2026-06-25 13:11:04,970 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:05,295 [INFO] Downloaded media for message 196288
+2026-06-25 13:11:05,299 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:05,502 [INFO] Downloaded media for message 196286
+2026-06-25 13:11:05,509 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:05,746 [INFO] Downloaded media for message 196271
+2026-06-25 13:11:05,748 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:06,313 [INFO] Downloaded media for message 196270
+2026-06-25 13:11:06,316 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:06,609 [INFO] Downloaded media for message 196269
+2026-06-25 13:11:06,612 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:06,957 [INFO] Downloaded media for message 196268
+2026-06-25 13:11:06,970 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:07,289 [INFO] Downloaded media for message 196247
+2026-06-25 13:11:07,292 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:07,905 [INFO] Downloaded media for message 196246
+2026-06-25 13:11:07,911 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:08,118 [INFO] Downloaded media for message 196225
+2026-06-25 13:11:08,120 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:08,340 [INFO] Downloaded media for message 196224
+2026-06-25 13:11:08,346 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:08,930 [INFO] Downloaded media for message 196211
+2026-06-25 13:11:08,935 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:09,532 [INFO] Downloaded media for message 196207
+2026-06-25 13:11:09,539 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:09,810 [INFO] Downloaded media for message 196199
+2026-06-25 13:11:09,813 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:10,093 [INFO] Downloaded media for message 196198
+2026-06-25 13:11:10,146 [INFO] Completed channel @tikvahpharma. Saved 100 records.
+2026-06-25 13:11:10,147 [INFO] Starting scraping for channel: @TGStat
+2026-06-25 13:11:10,947 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:11,059 [INFO] File lives in another DC
+2026-06-25 13:11:11,174 [INFO] Connecting to 149.154.167.41:443/TcpFull...
+2026-06-25 13:11:12,715 [INFO] Connection to 149.154.167.41:443/TcpFull complete!
+2026-06-25 13:11:12,715 [INFO] Exporting auth for new borrowed sender in DcOption(id=2, ip_address='149.154.167.41', port=443, ipv6=False, media_only=False, tcpo_only=False, cdn=False, static=False, this_port_only=False, secret=None)
+2026-06-25 13:11:14,349 [INFO] Downloaded media for message 493
+2026-06-25 13:11:14,350 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:14,469 [INFO] File lives in another DC
+2026-06-25 13:11:15,183 [INFO] Downloaded media for message 491
+2026-06-25 13:11:15,184 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:15,419 [INFO] File lives in another DC
+2026-06-25 13:11:15,854 [INFO] Downloaded media for message 485
+2026-06-25 13:11:15,855 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:15,979 [INFO] File lives in another DC
+2026-06-25 13:11:16,324 [INFO] Downloaded media for message 483
+2026-06-25 13:11:16,328 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:16,442 [INFO] File lives in another DC
+2026-06-25 13:11:17,059 [INFO] Downloaded media for message 477
+2026-06-25 13:11:17,060 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:17,178 [INFO] File lives in another DC
+2026-06-25 13:11:17,456 [INFO] Downloaded media for message 475
+2026-06-25 13:11:17,457 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:17,582 [INFO] File lives in another DC
+2026-06-25 13:11:17,830 [INFO] Downloaded media for message 474
+2026-06-25 13:11:17,832 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:17,945 [INFO] File lives in another DC
+2026-06-25 13:11:18,257 [INFO] Downloaded media for message 473
+2026-06-25 13:11:18,259 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:18,365 [INFO] File lives in another DC
+2026-06-25 13:11:18,754 [INFO] Downloaded media for message 472
+2026-06-25 13:11:18,755 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:18,862 [INFO] File lives in another DC
+2026-06-25 13:11:19,288 [INFO] Downloaded media for message 471
+2026-06-25 13:11:19,289 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:19,411 [INFO] File lives in another DC
+2026-06-25 13:11:19,694 [INFO] Downloaded media for message 470
+2026-06-25 13:11:19,695 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:19,813 [INFO] File lives in another DC
+2026-06-25 13:11:20,061 [INFO] Downloaded media for message 469
+2026-06-25 13:11:20,063 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:20,171 [INFO] File lives in another DC
+2026-06-25 13:11:20,562 [INFO] Downloaded media for message 468
+2026-06-25 13:11:20,563 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:20,671 [INFO] File lives in another DC
+2026-06-25 13:11:20,933 [INFO] Downloaded media for message 467
+2026-06-25 13:11:20,934 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:21,046 [INFO] File lives in another DC
+2026-06-25 13:11:21,328 [INFO] Downloaded media for message 464
+2026-06-25 13:11:21,329 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:21,441 [INFO] File lives in another DC
+2026-06-25 13:11:21,669 [INFO] Downloaded media for message 462
+2026-06-25 13:11:21,671 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:21,780 [INFO] File lives in another DC
+2026-06-25 13:11:22,008 [INFO] Downloaded media for message 459
+2026-06-25 13:11:22,010 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:22,116 [INFO] File lives in another DC
+2026-06-25 13:11:22,496 [INFO] Downloaded media for message 456
+2026-06-25 13:11:22,497 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:22,604 [INFO] File lives in another DC
+2026-06-25 13:11:23,026 [INFO] Downloaded media for message 455
+2026-06-25 13:11:23,027 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:23,135 [INFO] File lives in another DC
+2026-06-25 13:11:23,513 [INFO] Downloaded media for message 454
+2026-06-25 13:11:23,514 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:23,620 [INFO] File lives in another DC
+2026-06-25 13:11:24,017 [INFO] Downloaded media for message 453
+2026-06-25 13:11:24,018 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:24,124 [INFO] File lives in another DC
+2026-06-25 13:11:24,491 [INFO] Downloaded media for message 452
+2026-06-25 13:11:24,493 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:24,600 [INFO] File lives in another DC
+2026-06-25 13:11:25,013 [INFO] Downloaded media for message 451
+2026-06-25 13:11:25,014 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:25,120 [INFO] File lives in another DC
+2026-06-25 13:11:25,685 [INFO] Downloaded media for message 450
+2026-06-25 13:11:25,686 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:25,794 [INFO] File lives in another DC
+2026-06-25 13:11:26,388 [INFO] Downloaded media for message 449
+2026-06-25 13:11:26,390 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:26,501 [INFO] File lives in another DC
+2026-06-25 13:11:26,757 [INFO] Downloaded media for message 448
+2026-06-25 13:11:26,758 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:26,872 [INFO] File lives in another DC
+2026-06-25 13:11:27,120 [INFO] Downloaded media for message 447
+2026-06-25 13:11:27,121 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:27,237 [INFO] File lives in another DC
+2026-06-25 13:11:27,550 [INFO] Downloaded media for message 442
+2026-06-25 13:11:27,554 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:28,016 [INFO] File lives in another DC
+2026-06-25 13:11:28,369 [INFO] Downloaded media for message 440
+2026-06-25 13:11:28,370 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:28,479 [INFO] File lives in another DC
+2026-06-25 13:11:28,810 [INFO] Downloaded media for message 439
+2026-06-25 13:11:28,811 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:28,917 [INFO] File lives in another DC
+2026-06-25 13:11:29,302 [INFO] Downloaded media for message 437
+2026-06-25 13:11:29,304 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:29,414 [INFO] File lives in another DC
+2026-06-25 13:11:29,941 [INFO] Downloaded media for message 433
+2026-06-25 13:11:29,944 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:30,053 [INFO] File lives in another DC
+2026-06-25 13:11:30,268 [INFO] Downloaded media for message 431
+2026-06-25 13:11:30,269 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:30,387 [INFO] File lives in another DC
+2026-06-25 13:11:30,676 [INFO] Downloaded media for message 430
+2026-06-25 13:11:30,677 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:30,978 [INFO] File lives in another DC
+2026-06-25 13:11:31,260 [INFO] Downloaded media for message 429
+2026-06-25 13:11:31,261 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:31,372 [INFO] File lives in another DC
+2026-06-25 13:11:31,714 [INFO] Downloaded media for message 428
+2026-06-25 13:11:31,716 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:31,825 [INFO] File lives in another DC
+2026-06-25 13:11:32,068 [INFO] Downloaded media for message 427
+2026-06-25 13:11:32,069 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:32,181 [INFO] File lives in another DC
+2026-06-25 13:11:32,475 [INFO] Downloaded media for message 426
+2026-06-25 13:11:32,476 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:32,587 [INFO] File lives in another DC
+2026-06-25 13:11:32,830 [INFO] Downloaded media for message 425
+2026-06-25 13:11:32,831 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:32,940 [INFO] File lives in another DC
+2026-06-25 13:11:33,328 [INFO] Downloaded media for message 415
+2026-06-25 13:11:33,331 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:33,981 [INFO] Downloaded media for message 410
+2026-06-25 13:11:33,983 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:34,090 [INFO] File lives in another DC
+2026-06-25 13:11:34,330 [INFO] Downloaded media for message 407
+2026-06-25 13:11:34,331 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:34,456 [INFO] File lives in another DC
+2026-06-25 13:11:34,700 [INFO] Downloaded media for message 406
+2026-06-25 13:11:34,701 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:34,810 [INFO] File lives in another DC
+2026-06-25 13:11:35,049 [INFO] Downloaded media for message 405
+2026-06-25 13:11:35,051 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:35,205 [INFO] File lives in another DC
+2026-06-25 13:11:35,506 [INFO] Downloaded media for message 404
+2026-06-25 13:11:35,508 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:35,622 [INFO] File lives in another DC
+2026-06-25 13:11:35,944 [INFO] Downloaded media for message 403
+2026-06-25 13:11:35,945 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:36,065 [INFO] File lives in another DC
+2026-06-25 13:11:36,301 [INFO] Downloaded media for message 402
+2026-06-25 13:11:36,302 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:36,420 [INFO] File lives in another DC
+2026-06-25 13:11:36,645 [INFO] Downloaded media for message 401
+2026-06-25 13:11:36,647 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:36,755 [INFO] File lives in another DC
+2026-06-25 13:11:36,910 [INFO] Downloaded media for message 400
+2026-06-25 13:11:36,911 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:37,018 [INFO] File lives in another DC
+2026-06-25 13:11:37,342 [INFO] Downloaded media for message 399
+2026-06-25 13:11:37,343 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:37,453 [INFO] File lives in another DC
+2026-06-25 13:11:37,708 [INFO] Downloaded media for message 398
+2026-06-25 13:11:37,709 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:37,900 [INFO] File lives in another DC
+2026-06-25 13:11:38,243 [INFO] Downloaded media for message 397
+2026-06-25 13:11:38,245 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:38,355 [INFO] File lives in another DC
+2026-06-25 13:11:38,635 [INFO] Downloaded media for message 396
+2026-06-25 13:11:38,636 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:38,865 [INFO] File lives in another DC
+2026-06-25 13:11:39,118 [INFO] Downloaded media for message 395
+2026-06-25 13:11:39,119 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:39,230 [INFO] File lives in another DC
+2026-06-25 13:11:39,447 [INFO] Downloaded media for message 392
+2026-06-25 13:11:39,449 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:39,559 [INFO] File lives in another DC
+2026-06-25 13:11:39,802 [INFO] Downloaded media for message 391
+2026-06-25 13:11:39,804 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:39,977 [INFO] Downloaded media for message 390
+2026-06-25 13:11:39,978 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:40,084 [INFO] File lives in another DC
+2026-06-25 13:11:40,353 [INFO] Downloaded media for message 388
+2026-06-25 13:11:40,354 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:40,460 [INFO] File lives in another DC
+2026-06-25 13:11:40,669 [INFO] Downloaded media for message 387
+2026-06-25 13:11:40,670 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:40,786 [INFO] File lives in another DC
+2026-06-25 13:11:40,984 [INFO] Downloaded media for message 386
+2026-06-25 13:11:40,986 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:41,107 [INFO] File lives in another DC
+2026-06-25 13:11:41,305 [INFO] Downloaded media for message 385
+2026-06-25 13:11:41,306 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:41,416 [INFO] File lives in another DC
+2026-06-25 13:11:41,633 [INFO] Downloaded media for message 384
+2026-06-25 13:11:41,634 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:41,743 [INFO] File lives in another DC
+2026-06-25 13:11:41,972 [INFO] Downloaded media for message 383
+2026-06-25 13:11:41,973 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:42,081 [INFO] File lives in another DC
+2026-06-25 13:11:42,316 [INFO] Downloaded media for message 382
+2026-06-25 13:11:42,317 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:42,473 [INFO] File lives in another DC
+2026-06-25 13:11:42,709 [INFO] Downloaded media for message 381
+2026-06-25 13:11:42,710 [INFO] Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-25 13:11:42,817 [INFO] File lives in another DC
+2026-06-25 13:11:43,040 [INFO] Downloaded media for message 380
+2026-06-25 13:11:43,067 [INFO] Completed channel @TGStat. Saved 100 records.
+2026-06-25 13:11:43,068 [INFO] Disconnecting from 149.154.167.92:443/TcpFull...
+2026-06-25 13:11:43,069 [INFO] Disconnection from 149.154.167.92:443/TcpFull complete!
+2026-06-25 13:11:43,069 [INFO] Disconnecting from 149.154.167.41:443/TcpFull...
+2026-06-25 13:11:43,069 [INFO] Disconnection from 149.154.167.41:443/TcpFull complete!

@@ -1,0 +1,48 @@
+2026-06-24 19:59:41,427 [INFO] Connecting to 149.154.167.92:443/TcpFull...
+2026-06-24 19:59:42,573 [INFO] Connection to 149.154.167.92:443/TcpFull complete!
+2026-06-24 19:59:46,855 [INFO] Starting scraping for channel: https://t.me/CheMed123
+2026-06-24 19:59:47,565 [ERROR] Error extracting from https://t.me/CheMed123: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'data/raw/images/https:'
+2026-06-24 19:59:47,565 [INFO] Starting scraping for channel: https://t.me/lobelia4cosmetics
+2026-06-24 19:59:48,120 [ERROR] Error extracting from https://t.me/lobelia4cosmetics: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'data/raw/images/https:'
+2026-06-24 19:59:48,121 [INFO] Starting scraping for channel: https://t.me/tikvahpharma
+2026-06-24 19:59:48,839 [ERROR] Error extracting from https://t.me/tikvahpharma: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'data/raw/images/https:'
+2026-06-24 19:59:48,839 [INFO] Starting scraping for channel: https://et.tgstat.com/medicine
+2026-06-24 19:59:48,840 [ERROR] Error extracting from https://et.tgstat.com/medicine: Cannot find any entity corresponding to "https://et.tgstat.com/medicine"
+2026-06-24 19:59:48,840 [INFO] Disconnecting from 149.154.167.92:443/TcpFull...
+2026-06-24 19:59:48,841 [INFO] Disconnection from 149.154.167.92:443/TcpFull complete!
+2026-06-24 20:05:41,100 [INFO] Connecting to 149.154.167.92:443/TcpFull...
+2026-06-24 20:05:41,240 [INFO] Connection to 149.154.167.92:443/TcpFull complete!
+2026-06-24 20:05:42,878 [INFO] Starting scraping for channel: https://t.me/CheMed123
+2026-06-24 20:05:44,154 [ERROR] Error extracting from https://t.me/CheMed123: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'data/raw/images/https:'
+2026-06-24 20:05:44,155 [INFO] Starting scraping for channel: https://t.me/lobelia4cosmetics
+2026-06-24 20:05:44,368 [ERROR] Error extracting from https://t.me/lobelia4cosmetics: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'data/raw/images/https:'
+2026-06-24 20:05:44,368 [INFO] Starting scraping for channel: https://t.me/tikvahpharma
+2026-06-24 20:05:44,600 [ERROR] Error extracting from https://t.me/tikvahpharma: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'data/raw/images/https:'
+2026-06-24 20:05:44,601 [INFO] Starting scraping for channel: https://et.tgstat.com/medicine
+2026-06-24 20:05:44,601 [ERROR] Error extracting from https://et.tgstat.com/medicine: Cannot find any entity corresponding to "https://et.tgstat.com/medicine"
+2026-06-24 20:05:44,601 [INFO] Disconnecting from 149.154.167.92:443/TcpFull...
+2026-06-24 20:05:44,601 [INFO] Disconnection from 149.154.167.92:443/TcpFull complete!
+2026-06-24 20:08:22,248 [INFO] Connecting to 149.154.167.92:443/TcpFull...
+2026-06-24 20:08:23,433 [INFO] Connection to 149.154.167.92:443/TcpFull complete!
+2026-06-24 20:08:25,651 [INFO] Starting scraping for channel: https://t.me/CheMed123
+2026-06-24 20:08:25,892 [ERROR] Error extracting from https://t.me/CheMed123: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'data/raw/images/https:'
+2026-06-24 20:08:25,892 [INFO] Starting scraping for channel: https://t.me/lobelia4cosmetics
+2026-06-24 20:08:26,119 [ERROR] Error extracting from https://t.me/lobelia4cosmetics: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'data/raw/images/https:'
+2026-06-24 20:08:26,119 [INFO] Starting scraping for channel: https://t.me/tikvahpharma
+2026-06-24 20:08:26,340 [ERROR] Error extracting from https://t.me/tikvahpharma: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'data/raw/images/https:'
+2026-06-24 20:08:26,340 [INFO] Starting scraping for channel: https://et.tgstat.com/medicine
+2026-06-24 20:08:26,340 [ERROR] Error extracting from https://et.tgstat.com/medicine: Cannot find any entity corresponding to "https://et.tgstat.com/medicine"
+2026-06-24 20:08:26,340 [INFO] Disconnecting from 149.154.167.92:443/TcpFull...
+2026-06-24 20:08:26,341 [INFO] Disconnection from 149.154.167.92:443/TcpFull complete!
+2026-06-24 20:09:23,072 [INFO] Connecting to 149.154.167.92:443/TcpFull...
+2026-06-24 20:09:24,119 [INFO] Connection to 149.154.167.92:443/TcpFull complete!
+2026-06-24 20:09:26,775 [INFO] Starting scraping for channel: https://t.me/CheMed123
+2026-06-24 20:09:27,447 [ERROR] Error extracting from https://t.me/CheMed123: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'data/raw/images/https:'
+2026-06-24 20:09:27,447 [INFO] Starting scraping for channel: https://t.me/lobelia4cosmetics
+2026-06-24 20:09:28,511 [ERROR] Error extracting from https://t.me/lobelia4cosmetics: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'data/raw/images/https:'
+2026-06-24 20:09:28,511 [INFO] Starting scraping for channel: https://t.me/tikvahpharma
+2026-06-24 20:09:29,203 [ERROR] Error extracting from https://t.me/tikvahpharma: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'data/raw/images/https:'
+2026-06-24 20:09:29,203 [INFO] Starting scraping for channel: https://et.tgstat.com/medicine
+2026-06-24 20:09:29,203 [ERROR] Error extracting from https://et.tgstat.com/medicine: Cannot find any entity corresponding to "https://et.tgstat.com/medicine"
+2026-06-24 20:09:29,203 [INFO] Disconnecting from 149.154.167.92:443/TcpFull...
+2026-06-24 20:09:29,204 [INFO] Disconnection from 149.154.167.92:443/TcpFull complete!

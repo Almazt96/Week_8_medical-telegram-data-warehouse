@@ -10,7 +10,14 @@ def process_images_with_yolo():
     model = YOLO("yolov8n.pt")
     image_root = "data/raw/images"
     output_csv = "data/raw/csv/enrichment_detections.csv"
-    
+
+    # # ✨ THIS LINE HERE: This creates the folders if they don't exist yet
+    # os.makedirs(os.path.dirname(output_csv), exist_ok=True)
+
+    # # Now this line will run perfectly without crashing!
+    # with open(output_csv, "w", newline="", encoding="utf-8") as f:
+    #     # ... your existing CSV writing logic ...
+    #     pass
     records = []
     
     for root, dirs, files in os.walk(image_root):

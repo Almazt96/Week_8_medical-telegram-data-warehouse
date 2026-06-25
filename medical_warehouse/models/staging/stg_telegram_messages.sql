@@ -1,5 +1,7 @@
 -- dbt Transformation Layer — Staging Model
-location: medical_warehouse/models/staging/stg_telegram_messages.sql
+{{ config(materialized='view') }} -- If you have a config block
+
+-- location: medical_warehouse/models/staging/stg_telegram_messages.sql
 with source_data as (
     select * from {{ source('raw', 'telegram_messages') }}
 )
@@ -17,3 +19,4 @@ select
     case when image_path is not null then true else false end as has_image
 from source_data
 where message_id is not null
+  and channel_name is not null

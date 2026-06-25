@@ -1,2 +1,4 @@
 .env
 data/
+logs/
+medical_warehouse/logs/

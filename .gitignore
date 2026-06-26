@@ -4,8 +4,8 @@ medical_warehouse/logs/
 .tmp_dagster_home*/
 *.log
 dagster.log
-runs.db
-schedules.db
+*/history/runs.db
+*/schedules/schedules.db
 schedules/
 runs/
 history/

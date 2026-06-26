@@ -14,3 +14,7 @@ dbt-postgres==1.10.2
 # Data Processing & Inspection (Optional but highly recommended for data science tasks)
 pandas==2.2.2
 numpy==1.26.4
+dagster==1.13.11
+dagster-webserver==1.13.11
+pandas==2.2.2
+sqlalchemy==2.0.22

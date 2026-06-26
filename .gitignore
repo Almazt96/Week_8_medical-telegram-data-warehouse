@@ -6,6 +6,9 @@ medical_warehouse/logs/
 dagster.log
 runs.db
 schedules.db
+schedules/
+runs/
+history/
 
 # Ignore local python environment and cache files
 *.pyc

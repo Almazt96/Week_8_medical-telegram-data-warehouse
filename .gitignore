@@ -1,6 +1,7 @@
 data/
 medical_warehouse/logs/
-.tmp*
+.tmp*/
+*.db
 # ==========================================
 # 1. Project-Specific Scraped Data & Media (CRITICAL)
 # ==========================================

@@ -48,3 +48,5 @@ daily_sync_schedule = ScheduleDefinition(
     job=medical_warehouse_job,
     cron_schedule="0 2 * * *"
 )
+defs = [medical_warehouse_job, daily_sync_schedule]
+definitions = {"jobs": defs, "schedules": [daily_sync_schedule]}

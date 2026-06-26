@@ -1,7 +1,17 @@
 data/
 medical_warehouse/logs/
-.tmp*/
-*.db
+# Ignore Dagster temporary home directories and logs
+.tmp_dagster_home*/
+*.log
+dagster.log
+
+# Ignore local python environment and cache files
+*.pyc
+
+# Ignore dbt logs and targets if you are using dbt
+target/
+dbt_packages/
+logs/
 # ==========================================
 # 1. Project-Specific Scraped Data & Media (CRITICAL)
 # ==========================================

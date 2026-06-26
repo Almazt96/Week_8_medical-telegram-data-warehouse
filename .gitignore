@@ -10,6 +10,8 @@ schedules/
 runs/
 history/
 
+# Block any SQLite databases anywhere in the project
+*.db
 # Ignore local python environment and cache files
 *.pyc
 
@@ -59,3 +61,6 @@ env/
 *.session-journal
 secrets.toml
 config.ini
+.tmp_dagster_home*/
+*.db
+

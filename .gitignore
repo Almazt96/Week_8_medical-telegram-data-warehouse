@@ -4,6 +4,8 @@ medical_warehouse/logs/
 .tmp_dagster_home*/
 *.log
 dagster.log
+runs.db
+schedules.db
 
 # Ignore local python environment and cache files
 *.pyc

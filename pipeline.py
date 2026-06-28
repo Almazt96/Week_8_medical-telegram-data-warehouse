@@ -44,9 +44,13 @@ def medical_warehouse_job():
     enriched = run_yolo_enrichment_op(loaded)
     transformed = run_dbt_transformations_op(enriched)
 
+from dagster import ScheduleDefinition, DefaultScheduleStatus
+
 daily_sync_schedule = ScheduleDefinition(
     job=medical_warehouse_job,
-    cron_schedule="0 2 * * *"
+    cron_schedule="0 0 * * *",
+    execution_timezone="Africa/Addis_Ababa",  # <--- Forces Dagster to follow your local clock
+    default_status=DefaultScheduleStatus.RUNNING,
 )
 defs = [medical_warehouse_job, daily_sync_schedule]
 definitions = {"jobs": defs, "schedules": [daily_sync_schedule]}

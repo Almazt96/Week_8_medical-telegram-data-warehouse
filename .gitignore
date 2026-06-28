@@ -1,1 +1,69 @@
+data/
+medical_warehouse/logs/
+# Ignore Dagster temporary home directories and logs
+.tmp_dagster_home*/
+logs/dbt.log
+logs/dagster.log
+logs/*.log
+*/history/runs.db
+*/schedules/schedules.db
+session_scout.session*
+session_scout.session
+schedules/
+runs/
+history/
+logs/*
+# Block any SQLite databases anywhere in the project
+*.db
+# Ignore local python environment and cache files
+*.pyc
+
+# Ignore dbt logs and targets if you are using dbt
+target/
+dbt_packages/
+logs/
+# ==========================================
+# 1. Project-Specific Scraped Data & Media (CRITICAL)
+# ==========================================
+# Do not commit raw downloaded media, images, or data dumps to GitHub
+scraped_media/
+*.csv
+*.json
+!manifest.json
+!catalog.json
+
+# ==========================================
+# 2. dbt Specific Files
+# ==========================================
+# Ignore local dbt logs and compiled target files
+logs/
+target/
+dbt_packages/
+modules/
+
+# If you have a local profiles.yml stored in the project instead of ~/.dbt/
+profiles.yml
+
+# ==========================================
+# 3. Python & Environment Noise
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
 .env
+
+# ==========================================
+# 4. Telegram Scraper Sessions & Credentials
+# ==========================================
+# Telethon/Pyrogram authentication session logs (contains your login tokens!)
+*.session
+*.session-journal
+secrets.toml
+config.ini
+.tmp_dagster_home*/
+*.db
+

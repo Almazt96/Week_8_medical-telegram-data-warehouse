@@ -2,16 +2,17 @@ data/
 medical_warehouse/logs/
 # Ignore Dagster temporary home directories and logs
 .tmp_dagster_home*/
-dbt.log
-*.log
-dagster.log
+logs/dbt.log
+logs/dagster.log
+logs/*.log
 */history/runs.db
 */schedules/schedules.db
 session_scout.session*
+session_scout.session
 schedules/
 runs/
 history/
-logs*
+logs/*
 # Block any SQLite databases anywhere in the project
 *.db
 # Ignore local python environment and cache files

@@ -10,7 +10,6 @@ def process_images_with_yolo():
     model = YOLO("yolov8n.pt")
     image_root = "data/raw/images"
     output_csv = "data/raw/csv/enrichment_detections.csv"
-    
     records = []
     
     for root, dirs, files in os.walk(image_root):

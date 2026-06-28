@@ -7,7 +7,7 @@ dbt.log
 dagster.log
 */history/runs.db
 */schedules/schedules.db
-session_scout.session
+session_scout.session*
 schedules/
 runs/
 history/

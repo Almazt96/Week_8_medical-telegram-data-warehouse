@@ -3,7 +3,7 @@
 # Workflow Definition Structure:
 import os
 import subprocess
-from dagster import op, job, ScheduleDefinition
+from dagster import op, job, ScheduleDefinition, DefaultScheduleStatus, Definitions
 
 @op(description="Extracts raw messages and media files via Telethon.")
 def scrape_telegram_data_op():
@@ -28,14 +28,18 @@ def run_yolo_enrichment_op(upstream_status):
 
 @op(description="Executes dbt compile and models migration across schemas.")
 def run_dbt_transformations_op(upstream_status):
-    os.chdir("medical_warehouse")
-    result = subprocess.run(["dbt", "run"], capture_output=True, text=True)
-    test_result = subprocess.run(["dbt", "test"], capture_output=True, text=True)
-    os.chdir("..")
-    
-    if result.returncode != 0 or test_result.returncode != 0:
-        raise Exception(f"dbt build layer breakdown: {result.stderr} {test_result.stderr}")
-    return "Transformations Stage Passed"
+    # Capture current working directory to safely revert after execution
+    original_dir = os.getcwd()
+    try:
+        os.chdir("medical_warehouse")
+        result = subprocess.run(["dbt", "run"], capture_output=True, text=True)
+        test_result = subprocess.run(["dbt", "test"], capture_output=True, text=True)
+        
+        if result.returncode != 0 or test_result.returncode != 0:
+            raise Exception(f"dbt build layer breakdown: {result.stderr} {test_result.stderr}")
+        return "Transformations Stage Passed"
+    finally:
+        os.chdir(original_dir)
 
 @job(description="Automated Production Flow Pipeline for Ethiopian Medical Warehousing")
 def medical_warehouse_job():
@@ -44,13 +48,17 @@ def medical_warehouse_job():
     enriched = run_yolo_enrichment_op(loaded)
     transformed = run_dbt_transformations_op(enriched)
 
-from dagster import ScheduleDefinition, DefaultScheduleStatus
-
+# --- SCHEDULE DEFINITION ---
 daily_sync_schedule = ScheduleDefinition(
+    name="daily_medical_warehouse_sync",
     job=medical_warehouse_job,
-    cron_schedule="0 0 * * *",
-    execution_timezone="Africa/Addis_Ababa",  # <--- Forces Dagster to follow your local clock
-    default_status=DefaultScheduleStatus.RUNNING,
+    cron_schedule="0 2 * * *",  # Fires exactly at 2:00 AM local time
+    execution_timezone="Africa/Addis_Ababa",  # Uses your local clock directly
+    default_status=DefaultScheduleStatus.RUNNING,  # Automatically toggles ON
 )
-defs = [medical_warehouse_job, daily_sync_schedule]
-definitions = {"jobs": defs, "schedules": [daily_sync_schedule]}
+
+# --- SINGLE DISCOVERABLE DEFINITIONS ENTRYPOINT ---
+definitions = Definitions(
+    jobs=[medical_warehouse_job],
+    schedules=[daily_sync_schedule],
+)

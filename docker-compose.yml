@@ -1,2 +1,19 @@
 # Local DB / Environment orchestration 
 # Container orchestration
+version: '3.8'
+services:
+  risk_api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8095:8000"  # Map to 8095 on your host to avoid any more port traffic jams
+    environment:
+      - MLFLOW_TRACKING_URI=http://172.19.0.2:5000  # Points directly to the running MLflow container IP
+    networks:
+      - mlflow-network
+
+networks:
+  mlflow-network:
+    external: true
+    name: Week_8_medical_telegram_warehouse_mlflow-network
